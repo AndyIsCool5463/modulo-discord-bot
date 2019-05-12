@@ -1,0 +1,29 @@
+{
+  "name": "modulo-discord-bot",
+  "version": "1.0.0",
+  "main": "initalize.js",
+  "repository": "https://github.com/AndyIsCool5463/modulo-discord-bot.git",
+  "author": "AndyIsCool5463",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "@discordjs/uws": "^11.149.1",
+    "better-sqlite-pool": "^0.2.2",
+    "bufferutil": "^4.0.1",
+    "canvas": "^2.5.0",
+    "canvas-constructor": "^3.0.1",
+    "chalk": "^2.4.2",
+    "cors": "^2.8.5",
+    "discord.js": "^11.5.0",
+    "dotenv": "^8.0.0",
+    "enmap": "^4.8.5",
+    "erlpack": "hammerandchisel/erlpack",
+    "express": "^4.16.4",
+    "filehound": "^1.17.0",
+    "fs-extra": "^8.0.0",
+    "node-opus": "^0.3.1",
+    "sodium": "^3.0.2"
+  }
+}
